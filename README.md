@@ -32,7 +32,7 @@ Este repositorio contiene mi portafolio de prácticas y proyectos en **Amazon We
 ## 📂 Estructura del Repositorio
 
 ```
-aws-portfolio/
+aws-portfolio-final/
 ├── README.md                    # Este archivo
 ├── cv/
 │   ├── index.html              # CV profesional (HTML/CSS)
@@ -318,3 +318,7 @@ python -m http.server 8000 --directory cv
 <div align="center">
   <sub>Última actualización: 3 de mayo de 2026</sub>
 </div>
+=======
+# Aws-Portfolio-final
+AWS Portfolio - Raul Rodriguez Mesia - Mayo 2026
+>>>>>>> 178ec93f336e18e9c04c0bd2afe5ed609a52696b
